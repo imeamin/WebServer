@@ -35,3 +35,15 @@ ex)<h1 id="title" class="text">HTML</h1>
 HTML 주석표시
 <!-- 내용  -->
 
+HTML의 기본 구조
+
+<!DOCTYPE html>
+<html lang='ko'>
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</html>
+  </head>
+  <body>
+    <h1>Hello,HTML</h1>
+    </body>
+  </html>
